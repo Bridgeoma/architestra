@@ -2,7 +2,7 @@
 
 Architestra is based on [TOGAF 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
 
-# Archistra Capabilities Architecture
+# Architestra Capabilities Architecture
 - Definition of Architecture Roadmaps
 - Definition of Solution Architectures
 - Unit Testing of Architecture Definitions
