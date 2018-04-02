@@ -1,14 +1,35 @@
-## Welcome to the ArchiTestRa GitHub Pages
+## Welcome to the Architestra GitHub Pages
 
-ArchiTestRa accelerates the following Architecture tasks:
-- Definition of Architecture Roadmaps and Solution Architectures
-- Testing and Validation of Architecture Roadmaps and Solution Architectures
-- Release of Architecture Roamdaps and Solution Architectures for delivery and implementation
+Architestra is based on [TOGAF 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
 
-ArchiTestRa uses the following patterns:
-- Git and GitHub for distributed version control of Architecture models and repositories
-- JSON for definition of Architecture model content
-- [Draw.io](https://support.draw.io/display/SUP/draw.io+Online+Support) for Architecture visual rendering of Architecture model content
-- _tbd_ for Unit Testing of Architecture model content
-- _tbd_ for Integration testing of Architecture model content
-- _tbd_ for CI-CD Pipeline of Architecture-as-Code
+# Archistra Capabilities Architecture
+- Definition of Architecture Roadmaps
+- Definition of Solution Architectures
+- Unit Testing of Architecture Definitions
+- Integration Testing of Architecture Definitions
+- Change Management of Architecture Definitions
+
+# Architestra Apps Architecture
+- Content Editor
+- Diagram Template Editor
+- Unit Tester
+- Integration Tester
+- Project Pipeline
+- Project Builder
+- Project Installer
+
+# Architestra Data Architecture
+- Capabilities Architecture Schema
+- Apps Architecture Schema
+- Data Architecture Schema
+- Infrastructure Architecture Schema
+- Opportunities Architecture Schema
+- Migration Architecture Schema
+- Project Architecture Schema
+
+# Architestra Infrastructure Architecture
+- System Services
+- Compute Services
+- Storage Services
+- Network Services
+- Security Services
