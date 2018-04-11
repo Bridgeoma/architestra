@@ -1,0 +1,24 @@
+{
+  "name": "architestra",
+  "version": "1.0.0",
+  "description": "generates Solution Architecture Components from Architecture Roadmap Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bridgeoma/architestra.git"
+  },
+  "keywords": [
+    "togaf",
+    "architecture-dsl",
+    "ci-cd"
+  ],
+  "author": "emmanuel lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bridgeoma/architestra/issues"
+  },
+  "homepage": "https://github.com/Bridgeoma/architestra#readme"
+}
